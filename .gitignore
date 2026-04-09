@@ -1,0 +1,23 @@
+# API Keys and Secrets
+.env
+
+# Generated Assets
+US/charts/
+KR/charts_kr/
+
+# Logs
+*.log
+US/analysis.log
+KR/analysis_kr.log
+
+# Python
+**/__pycache__/
+*.pyc
+.venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
